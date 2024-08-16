@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Technologies\\Backend\\5- LINQ\\Assignments Route Solutions\\Assignment02LINQ Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F7D419-D052-47E6-84AC-B57D73C523BA}|Assignment02LINQ\\Assignment02LINQ.csproj|d:\\technologies\\backend\\5- linq\\assignments route solutions\\assignment02linq solution\\assignment02linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F7D419-D052-47E6-84AC-B57D73C523BA}|Assignment02LINQ\\Assignment02LINQ.csproj|solutionrelative:assignment02linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7B0249-3798-4E7A-9880-92FE8E25C84A}|Demo\\Demo.csproj|d:\\technologies\\backend\\5- linq\\assignments route solutions\\assignment02linq solution\\demo\\listgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D7B0249-3798-4E7A-9880-92FE8E25C84A}|Demo\\Demo.csproj|solutionrelative:demo\\listgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListGenerator.cs",
+              "DocumentMoniker": "D:\\Technologies\\Backend\\5- LINQ\\Assignments Route Solutions\\Assignment02LINQ Solution\\Demo\\ListGenerator.cs",
+              "RelativeDocumentMoniker": "Demo\\ListGenerator.cs",
+              "ToolTip": "D:\\Technologies\\Backend\\5- LINQ\\Assignments Route Solutions\\Assignment02LINQ Solution\\Demo\\ListGenerator.cs",
+              "RelativeToolTip": "Demo\\ListGenerator.cs",
+              "ViewState": "AQIAAOwAAAAAAAAAAAAuwPMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T05:54:17.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Technologies\\Backend\\5- LINQ\\Assignments Route Solutions\\Assignment02LINQ Solution\\Assignment02LINQ\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment02LINQ\\Program.cs",
+              "ToolTip": "D:\\Technologies\\Backend\\5- LINQ\\Assignments Route Solutions\\Assignment02LINQ Solution\\Assignment02LINQ\\Program.cs",
+              "RelativeToolTip": "Assignment02LINQ\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAHUBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:45:48.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

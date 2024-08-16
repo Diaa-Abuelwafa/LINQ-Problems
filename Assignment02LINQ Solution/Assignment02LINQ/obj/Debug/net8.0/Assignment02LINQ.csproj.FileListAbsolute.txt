@@ -1,0 +1,15 @@
+D:\Technologies\Backend\5- LINQ\Assignments Route Solutions\Assignment02LINQ Solution\Assignment02LINQ\bin\Debug\net8.0\Assignment02LINQ.exe
+D:\Technologies\Backend\5- LINQ\Assignments Route Solutions\Assignment02LINQ Solution\Assignment02LINQ\bin\Debug\net8.0\Assignment02LINQ.deps.json
+D:\Technologies\Backend\5- LINQ\Assignments Route Solutions\Assignment02LINQ Solution\Assignment02LINQ\bin\Debug\net8.0\Assignment02LINQ.runtimeconfig.json
+D:\Technologies\Backend\5- LINQ\Assignments Route Solutions\Assignment02LINQ Solution\Assignment02LINQ\bin\Debug\net8.0\Assignment02LINQ.dll
+D:\Technologies\Backend\5- LINQ\Assignments Route Solutions\Assignment02LINQ Solution\Assignment02LINQ\bin\Debug\net8.0\Assignment02LINQ.pdb
+D:\Technologies\Backend\5- LINQ\Assignments Route Solutions\Assignment02LINQ Solution\Assignment02LINQ\obj\Debug\net8.0\Assignment02LINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technologies\Backend\5- LINQ\Assignments Route Solutions\Assignment02LINQ Solution\Assignment02LINQ\obj\Debug\net8.0\Assignment02LINQ.AssemblyInfoInputs.cache
+D:\Technologies\Backend\5- LINQ\Assignments Route Solutions\Assignment02LINQ Solution\Assignment02LINQ\obj\Debug\net8.0\Assignment02LINQ.AssemblyInfo.cs
+D:\Technologies\Backend\5- LINQ\Assignments Route Solutions\Assignment02LINQ Solution\Assignment02LINQ\obj\Debug\net8.0\Assignment02LINQ.csproj.CoreCompileInputs.cache
+D:\Technologies\Backend\5- LINQ\Assignments Route Solutions\Assignment02LINQ Solution\Assignment02LINQ\obj\Debug\net8.0\Assignment02LINQ.sourcelink.json
+D:\Technologies\Backend\5- LINQ\Assignments Route Solutions\Assignment02LINQ Solution\Assignment02LINQ\obj\Debug\net8.0\Assignment02LINQ.dll
+D:\Technologies\Backend\5- LINQ\Assignments Route Solutions\Assignment02LINQ Solution\Assignment02LINQ\obj\Debug\net8.0\refint\Assignment02LINQ.dll
+D:\Technologies\Backend\5- LINQ\Assignments Route Solutions\Assignment02LINQ Solution\Assignment02LINQ\obj\Debug\net8.0\Assignment02LINQ.pdb
+D:\Technologies\Backend\5- LINQ\Assignments Route Solutions\Assignment02LINQ Solution\Assignment02LINQ\obj\Debug\net8.0\Assignment02LINQ.genruntimeconfig.cache
+D:\Technologies\Backend\5- LINQ\Assignments Route Solutions\Assignment02LINQ Solution\Assignment02LINQ\obj\Debug\net8.0\ref\Assignment02LINQ.dll
